@@ -3,7 +3,7 @@ title: Enderlilies
 SEOTitle: Enderlilies
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "Enderlilies 专注于咕咕的普通音游"
+description: "Enderlilies-专注于咕咕的普通音游"
 keyword: "音游"
 url: "https://enderlilies.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -85,7 +85,7 @@ gitalk:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
